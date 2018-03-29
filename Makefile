@@ -11,10 +11,13 @@ console:
 	$(docker_run) $(image) /bin/bash
 
 generate:
+	$(docker_run) $(image) $(hexo_bin) generate
+
+watch:
 	$(docker_run) $(image) $(hexo_bin) generate -w
 
 server:
 	$(docker_run) --publish 4000:4000 $(image) $(hexo_bin) server -s -l
 
-deploy:
-	$(docker_run) $(image) $(hexo_bin) deploy
+deploy: generate
+	$(docker_run) -v $(SSH_AUTH_SOCK):/ssh-agent -e SSH_AUTH_SOCK=/ssh-agent $(image) $(hexo_bin) deploy

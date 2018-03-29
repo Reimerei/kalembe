@@ -4,23 +4,12 @@
 
 # Site
 title: Kalembe
-subtitle: Untertitel
-description: Beschreibung
+subtitle:
+description:
 keywords:
-author: Author
+author: Maria & Björn Reimer
 language: de
 timezone: Europe/Berlin
-
-header:
-  title: "Kalembe"
-  motto: Build a beautiful and simple website in minutes
-  bigimgs:
-    - src: /bigimgs/01.jpg
-      desc: beautiful island
-    - src: /bigimgs/02.jpg
-      desc: Tropical Fish
-    - src: /bigimgs/03.jpg
-      desc: ocean
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -89,4 +78,11 @@ theme: beautiful-hexo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: acorn.x-hain.de
+  user: reimerei
+  root: /home/reimerei/kalembe_webroot
+  port: [port]
+  delete: true
+  verbose: true
+  ignore_errors: false

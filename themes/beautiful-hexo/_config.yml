@@ -1,21 +1,17 @@
 navbar-links:
+    Spenden: /spenden
+    Über uns: /about
     Archiv: /archives
-    Github: https://github.com/twoyao/beautiful-hexo
-    Über uns: /about/
 
-# avatar: /hexo.png
+avatar: /hexo.png
 # favicon: /hexo.png
 
 header:
-    title: "Kalembe"
-    motto: Build a beautiful and simple website in minutes
+    title: Kalembe
+    motto: Eine kurze Beschreibung
     bigimgs:
-        - src: /bigimgs/01.jpg
-          desc: beautiful island
-        - src: /bigimgs/02.jpg
-          desc: Tropical Fish
-        - src: /bigimgs/03.jpg
-          desc: ocean
+        - src: /bigimgs/model.jpg
+          desc:
 
 rss: /atom.xml
 googlefonts:
@@ -38,12 +34,12 @@ footer:
     link: 'http://weibo.com/bisyao?is_all=1'
     title: Weibo
     icon: fa-weibo
-    enalbe: true
+    enalbe: false
   github:
     link: 'https://github.com/twoyao'
     title: GitHub
     icon: fa-github
-    enable: true
+    enable: false
   rss:
     link: '/atom.xml'
     title: RSS
@@ -53,9 +49,9 @@ footer:
     link: 'https://twitter.com/twoyao_'
     title: Twitter
     icon: fa-twitter
-    enable: true
+    enable: false
   mail:
-    link: 'mailto:bisyao@gmail.com'
+    link: 'mailto:kalembe@bjrm.de'
     title: Email me
     icon: fa-envelope
     enable: true
@@ -74,7 +70,7 @@ google_analytics:
 
 comment:
   # false, disqus, netease or facebook
-  enable: netease
+  enable: false
   # disqus user, netease productKey or facebook appid
   id: 64d7f0abf9224be3bfdcc6cfb9b83fcf
   # [facebook only] plugin language
