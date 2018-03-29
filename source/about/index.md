@@ -3,7 +3,7 @@ title: Über uns
 date: 2018-03-27 15:33:38
 ---
 
-Wettringen, ein Dorf aus Nordrhein-Westfalens, kann stolz auf sich sein: In Kalembe, einem kleinen Dorf in der Demokratischen Republik Kongo in Afrika, ist 2016 eine Grund- und Berufsschule für Mädchen und junge Frauen eröffnet worden. Schon jetzt besuchen 140 Schülerinnen und 30 junge Mütter die "L'École St. Petronilla de Dubie" (Stand: April 2017). 
+In Kalembe, einem kleinen Dorf in der Demokratischen Republik Kongo in Afrika, ist 2016 eine Grund- und Berufsschule für Mädchen und junge Frauen eröffnet worden. Schon jetzt besuchen 140 Schülerinnen und 30 junge Mütter die "L'École St. Petronilla de Dubie" (Stand: April 2017). 
 
 Dieser Erfolg ist der katholischen Kirchengemeinde in Wettringen St. Petronilla, der Kolpingfamilie Wettringen und unzähligen Spenderinnen und Spendern zu verdanken. Die gesamte finanzielle Unterstützung der Mädchenschule kommt aus dem Hiärtken, in dem der kongolesische Pfarrer Dr. theol. Désiré seit fünf Jahren immer wieder zu Gast ist. 
 
