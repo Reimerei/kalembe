@@ -15,9 +15,9 @@ Wir freuen uns auch über einmalige Spenden, um einmalige Anschaffungen finanzie
 
 # Bankverbindung
 
-Empfänger: Förderverein Mädchenschule St. Petronilla in Kalembe
-IBAN: DE06 4035 1060 0073 7365 30 
-Kreissparkasse Wettringen
+Empfänger: Förderverein Mädchenschule St. Petronilla in Kalembe  
+IBAN: DE06 4035 1060 0073 7365 30  
+Kreissparkasse Wettringen  
 
 # Kontakt
 
