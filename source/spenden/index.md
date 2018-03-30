@@ -3,7 +3,7 @@ title: Unterstützen
 date: 2018-03-27 15:37:16
 ---
 
-In der globalisierten Welt haben wir viele Nachbarn. Werde auch Du Teil des Schuldorfs und hilf mit, den Mädchen und Frauen in Kalembe eine Zukunftsperspektive in ihrer Heimat zu bieten! Jetzt, da die Schule gebaut ist, möchten wir die Bezahlung der Lehrkräfte, die Anschaffung von Materialien und den laufenden Betrieb sicherstellen.
+In der globalisierten Welt haben wir viele Nachbarn. Werde auch Du Teil des Schuldorfs und hilf mit, den Mädchen und Frauen in Kalembe eine Zukunftsperspektive in ihrer Heimat zu bieten! Jetzt, da die Schule gebaut ist, möchten wir die Bezahlung der Lehrkräfte, die Anschaffung von Materialien und den laufenden Betrieb sicherstellen. (Stand: April 2017)
 
 # Mitgliedschaft im Förderverein
 
@@ -24,3 +24,5 @@ Kreissparkasse Wettringen
 Wer Interesse an einer Mitgliedschaft im Förderverein hat, Fragen zum Projekt stellen möchte oder Lust am Austausch zu bisherigen und künftigen Aktivitäten hat, kann folgende Mitglieder des Fördervereins kontaktieren:
 
 ...
+
+(Person) kann auch Spendenbescheinigungen ausstellen.
