@@ -15,4 +15,6 @@ Im Kongo gehen viele Mädchen nicht zur Schule und bekommen in sehr jungem Alter
 
 # Über den Ort 
 
-Kalembe liegt in  Katanga, einer Provinz der Demokratischen Republik Kongo. Hauptort ist Lubumbashi, der Bischofssitz heißt Kasenga. Die Provinz hat reichlich Bodenschätze, zählt aber trotzdem zu den ärmsten Gegenden des Landes - wohl eine Folge kolonialer Ausbeutung. In dieser Provinz liegt ziemlich abseits - die Entfernung von Lubumbashi beträgt ca. 500 km - Kalembe, ein sehr armer Ort. Die Menschen dort leben von der Landwirtschaft, deren Erträge meistens gerade ausreichen, die Familie zu ernähren. Überschüsse für den Verkauf gibt es kaum. 
+Kalembe liegt in  Katanga, einer Provinz der Demokratischen Republik Kongo. Hauptort ist Lubumbashi, der Bischofssitz heißt Kasenga. Die Provinz hat reichlich Bodenschätze, zählt aber trotzdem zu den ärmsten Gegenden des Landes - wohl eine Folge kolonialer Ausbeutung. In dieser Provinz liegt ziemlich abseits - die Entfernung von Lubumbashi beträgt ca. 500 km - Kalembe, ein sehr armer Ort. Die Menschen dort leben von der Landwirtschaft, deren Erträge meistens gerade ausreichen, die Familie zu ernähren. Überschüsse für den Verkauf gibt es kaum.
+
+![Wer diese „Straße“ sieht, der versteht, dass eine Fahrt, die in Deutschland in wenigen Stunden erledigt werden kann, im Bereich von Kalembe lange dauern wird.](/kalembe/images/Straße Kalembe.jpg)
