@@ -1,8 +1,6 @@
 ---
 title: Projekt B - Förderverein Mädchenschule St. Petronilla in Kalembe e.V.
 date: 2018-03-27 18:32:07
-tags:
-- projekte
 ---
 ![Bild](/images/danke.png)
 <!-- more -->
