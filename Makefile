@@ -20,7 +20,7 @@ watch:
 	$(docker_run) --publish 4000:4000 $(image) $(hexo_bin) server -l
 
 server:
-	$(docker_run) $(image) $(hexo_bin) server -l
+	$(hexo_bin) server -l
 
 deploy: pull generate
 	$(docker_run) -v $(SSH_AUTH_SOCK):/ssh-agent -e SSH_AUTH_SOCK=/ssh-agent $(image) $(hexo_bin) deploy
