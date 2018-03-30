@@ -24,3 +24,11 @@ server:
 
 deploy: pull generate
 	$(docker_run) -v $(SSH_AUTH_SOCK):/ssh-agent -e SSH_AUTH_SOCK=/ssh-agent $(image) $(hexo_bin) deploy
+
+local-deploy: pull generate
+ifneq ($(wildcard $(dest)),)
+	rm -rf $(dest)
+	cp -r public $(dest)
+else
+	echo "Invalid dest: $(dest)"
+endif
