@@ -17,18 +17,10 @@ generate:
 	$(docker_run) $(image) $(hexo_bin) generate
 
 watch:
-	$(docker_run) $(image) $(hexo_bin) generate -w
+	$(docker_run) --publish 4000:4000 $(image) $(hexo_bin) server -l
 
 server:
-	$(docker_run) --publish 4000:4000 $(image) $(hexo_bin) server -s -l
+	$(docker_run) $(image) $(hexo_bin) server -l
 
 deploy: pull generate
 	$(docker_run) -v $(SSH_AUTH_SOCK):/ssh-agent -e SSH_AUTH_SOCK=/ssh-agent $(image) $(hexo_bin) deploy
-
-local-deploy: pull generate
-ifneq ($(wildcard $(dest)),)
-	rm -rf $(dest)
-	cp -r public $(dest)
-else
-	echo "Invalid dest: $(dest)"
-endif
