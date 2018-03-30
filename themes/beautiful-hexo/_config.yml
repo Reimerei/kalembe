@@ -3,12 +3,12 @@ navbar-links:
     Über uns: /about
     Archiv: /archives
 
-avatar: /hexo.png
-# favicon: /hexo.png
+avatar: /globe.png
+favicon: /globe.png
 
 header:
-    title: Kalembe 
-    motto: Eine Mädchenschule entsteht 
+    title: Kalembe
+    motto: Eine Mädchenschule entsteht
     bigimgs:
         - src: /bigimgs/model.jpg
           desc:

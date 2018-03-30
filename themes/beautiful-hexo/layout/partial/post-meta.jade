@@ -1,5 +1,5 @@
 mixin post_meta(date, tags)
-    p.post-meta Erstellt am #{full_date(date, "MMM D YYYY")}
+    p.post-meta Erstellt am #{full_date(date, "D. MMM YYYY")}
       if tags
         - tags.each(function(tag) {
             = ' · '
