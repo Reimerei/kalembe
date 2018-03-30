@@ -7,6 +7,9 @@ setup:
 	docker build -t hexo-build-image .
 	$(docker_run) $(image) npm install
 
+pull:
+	git pull
+
 console:
 	$(docker_run) $(image) /bin/bash
 
@@ -19,5 +22,5 @@ watch:
 server:
 	$(docker_run) --publish 4000:4000 $(image) $(hexo_bin) server -s -l
 
-deploy: generate
+deploy: pull generate
 	$(docker_run) -v $(SSH_AUTH_SOCK):/ssh-agent -e SSH_AUTH_SOCK=/ssh-agent $(image) $(hexo_bin) deploy
