@@ -21,8 +21,10 @@ Kreissparkasse Wettringen
 
 # Kontakt
 
-Wer Interesse an einer Mitgliedschaft im Förderverein hat, Fragen zum Projekt stellen möchte oder Lust am Austausch zu bisherigen und künftigen Aktivitäten hat, kann folgende Mitglieder des Fördervereins kontaktieren:
+Wer Fragen zu bisherigen und künftigen Aktivitäten des Fördervereins hat oder eine Spendenbescheinigung benötigt, kann folgende Mitglieder des Fördervereins kontaktieren:
 
-...
+Maria Göcke (1. Vorsitzende): maria.goecke@gmx.net, 02557/1263
 
-(Person) kann auch Spendenbescheinigungen ausstellen.
+Ingrid Hermes (Stellvertretende Vorsitzende und Vorsitzende der Kolpingfamilie Wettringen): karlheinz.hermes@web.de
+
+Matthias Flothmann: susanne.flothmann@gmx.de
