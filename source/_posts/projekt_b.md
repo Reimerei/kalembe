@@ -3,9 +3,8 @@ title: Die Gründung des Fördervereins
 date: 2018-03-27 18:32:07
 ---
 ![Bild](/images/danke.png)
-<!-- more -->
 
-Im März 2 013 verwies Pfarrer Backhaus in einer Versammlung, in der über die Gründung der Mädchenschule in Kalembe diskutiert wurde,  auf die Folgekosten, die durch die  Anschaffung des Unterrichtsmaterials, die Bezahlung der Lehrer und manches mehr entstehen. Angeregt wurde, in der Pfarrgemeinde St. Petronilla einen Förderverein „Mädchenschule in Kalembe“ zu gründen. Mitgliedsbeiträge, die dieser zur Verfügung stellen könne, würden eine große Hilfe sein. Am 22. Oktober 2015 kam es zur Gründung des „Fördervereins Mädchenschule St. Petronilla in Kalembe“.  30 Personen waren gekommen, weitere hatten ihre Mitgliedschaft angekündigt, konnten jedoch nicht kommen.
+Im März 2013 verwies Pfarrer Backhaus in einer Versammlung, in der über die Gründung der Mädchenschule in Kalembe diskutiert wurde, auf die Folgekosten, die durch die Anschaffung des Unterrichtsmaterials, die Bezahlung der Lehrer und manches mehr entstehen. Angeregt wurde, in der Pfarrgemeinde St. Petronilla einen Förderverein „Mädchenschule in Kalembe“ zu gründen. Mitgliedsbeiträge, die dieser zur Verfügung stellen könne, würden eine große Hilfe sein. <!-- more --> Am 22. Oktober 2015 kam es zur Gründung des „Fördervereins Mädchenschule St. Petronilla in Kalembe“.  30 Personen waren gekommen, weitere hatten ihre Mitgliedschaft angekündigt, konnten jedoch nicht kommen.
 
 ![Bild](/images/schule.png)
 
