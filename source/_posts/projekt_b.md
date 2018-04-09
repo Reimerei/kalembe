@@ -1,6 +1,6 @@
 ---
 title: Die Gründung des Fördervereins
-date: 2018-03-27 18:32:07
+date: 2018-01-01 18:32:07
 ---
 ![Bild](/images/danke.png)
 
