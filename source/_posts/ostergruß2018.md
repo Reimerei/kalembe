@@ -2,7 +2,6 @@
 title: Ostergrüße aus Kasenga
 date: 2018-04-09 22:54:25
 ---
-![Bild](/images/)
 
 Liebe Wettringer und Wettringerinnen,
 
@@ -13,3 +12,7 @@ Unsere Mädchen haben eine große Motivation, zur Schule zu gehen.
 Gott segne euch alle. 
 
 Bis bald im August.
+
+Euer Dériré Lenge
+
+![Bild](/images/desire_ostern2018.png)
