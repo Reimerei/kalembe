@@ -5,7 +5,7 @@ date: 2018-04-09 22:54:25
 
 Liebe Wettringer und Wettringerinnen,
 
-ich schreibe euch mit Freude aus Kasenga. Ganz herzliche Ostergrüße. 
+ich schreibe euch mit Freude aus Kasenga. Ganz herzliche Ostergrüße. <!-- more -->
 Ich denke an euch, die ihr bemüht seid, die Mädchenschule in Dubie/Kalembe zu unterstützen. 
 Unsere Mädchen haben eine große Motivation, zur Schule zu gehen. 
 
