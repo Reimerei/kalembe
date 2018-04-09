@@ -11,9 +11,6 @@ Dieser Erfolg ist der [katholischen Kirchengemeinde in Wettringen St. Petronilla
 
 Im Kongo gehen viele Mädchen nicht zur Schule und bekommen in sehr jungem Alter selbst Kinder. Der Zugang zu Bildung hat deshalb eine lebensverändernde Bedeutung. Diese Zukunftsperspektive für die Mädchen von Kalembe so greifbar wie möglich zu machen, ist das Ziel des Wettringer Fördervereins _Mädchenschule St. Petronilla in Kalembe_.
 
-![Bild](/images/ziegelsteine.jpg)
-Die Mädchenschule entsteht.
-
 (Foto der fertigen Schule; Schülerinnen)
 
 (Hier noch ein Foto der Vereinsmitglieder mit Désiré)
@@ -22,5 +19,6 @@ Die Mädchenschule entsteht.
 
 Kalembe liegt in  Katanga, einer Provinz der Demokratischen Republik Kongo. Hauptort ist Lubumbashi, der Bischofssitz heißt Kasenga. Die Provinz hat reichlich Bodenschätze, zählt aber trotzdem zu den ärmsten Gegenden des Landes - wohl eine Folge kolonialer Ausbeutung. In dieser Provinz liegt ziemlich abseits - die Entfernung von Lubumbashi beträgt ca. 500 km - Kalembe, ein sehr armer Ort. Die Menschen dort leben von der Landwirtschaft, deren Erträge meistens gerade ausreichen, die Familie zu ernähren. Überschüsse für den Verkauf gibt es kaum.
 
+![Bild](/images/ziegelsteine.jpg)
 
-
+Der Bau der Mädchenschule.
