@@ -1,6 +1,6 @@
 ---
 title: Errichtung der Gebäude des Schuldorfes
-date: 2018-03-27 18:34:07
+date: 2018-01-02 18:34:07
 ---
 
 Es war die Kolpingversammlung im November 2011, in der Pfarrer Désiré vielen Kolpingmitgliedern und weiteren Interessenten über seine Heimat berichtete. Er ging auch auf die Situation der Mädchen ein, die keine Chance hätten, eine Schule zu besuchen. In der anschließenden Diskussion schlug dann die Geburtsstunde der Idee, in Kalembe eine Mädchenschule zu errichten und das durch Spendensammlungen zu ermöglichen. Hinsichtlich der Ausbildung waren und sind die Mädchen benachteiligt, reich sind sie aber in einem Alter von 13 -17 Jahren an Kindern. <!-- more -->
