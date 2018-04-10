@@ -7,7 +7,7 @@ In der globalisierten Welt haben wir viele Nachbarn. Werde auch Du Teil des Schu
 
 # Mitgliedschaft im Förderverein
 
-Eine Mitgliedschaft im Förderverein ermöglicht uns und der Mädchenschule in Kalembe eine langfristige Planung und Sicherheit. Sie kostet 24 Euro/Jahr und ist zu einem bestimmten Stichtag kündbar. Durch die Mitgliedschaft kann man außerdem am Vereinsleben teilnehmen und beispielsweise bei Besuchen von Pfarrer Désiré in Wettringen Neuigkeiten und Hintergründe zum Schuldorf und dem Leben in Kalembe erfahren. Die Beitrittserklärung zum Förderverein liegt [hier](/images/Beitrittserklärung Förderverein.doc).
+Eine Mitgliedschaft im Förderverein ermöglicht uns und der Mädchenschule in Kalembe eine langfristige Planung und Sicherheit. Sie kostet 24 Euro/Jahr und ist zu einem bestimmten Stichtag kündbar. Durch die Mitgliedschaft kann man außerdem am Vereinsleben teilnehmen und beispielsweise bei Besuchen von Pfarrer Désiré in Wettringen Neuigkeiten und Hintergründe zum Schuldorf und dem Leben in Kalembe erfahren. Die Beitrittserklärung zum Förderverein kann [hier](/images/Beitrittserklärung Förderverein.doc) herunter geladen werden.
 
 # Einmalige Spenden
 
