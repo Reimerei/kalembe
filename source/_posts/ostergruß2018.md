@@ -13,6 +13,6 @@ Gott segne euch alle.
 
 Bis bald im August.
 
-Euer Dériré Lenge
+Euer Désiré Lenge
 
 ![Bild](/images/desire_ostern2018.png)
