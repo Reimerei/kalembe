@@ -5,7 +5,7 @@ date: 2018-04-27 02:04:20
 
 Das Ziel unseres Fördervereins ist es, Hilfe zur Selbsthilfe zu leisten - und die könnte kaum besser gelingen als durch eine fundierte Schulbildung. 
 
-Umso schöner ist es, wenn wir hierbei von Schülerinnen und Schüler unterstützt werden, die dieses Glück heute schon haben.
+Umso schöner ist es, wenn wir hierbei von Schülerinnen und Schüler unterstützt werden, die dieses Glück heute schon haben. <!-- more -->
 
 Während des Elternsprechtages an der Wettringer Ludgerusgrundschule wurde eigens das jährliche Café „Sanjay“ eröffnet, um über den Kuchenverkauf Spenden für das Schuldorf in Kalembe zu sammeln.
 
