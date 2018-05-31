@@ -13,7 +13,7 @@ Im Kongo gehen viele Mädchen nicht zur Schule und bekommen in sehr jungem Alter
 
 ![Bild](/images/P1010626.JPG)
 
-Der engagierte Vorstand des Fördervereins (Stand: Mai 2018) besteht aus Matthias Flothmann, Maria Göcke, Bernadette Storm, Ingrid Hermes, Albert Janning, Albrecht Jungnitz und Hedwig Schröder (von links nach rechts). 
+Der engagierte Vorstand des Fördervereins besteht aus Matthias Flothmann, Maria Göcke, Bernadette Storm, Ingrid Hermes, Albert Janning, Albrecht Jungnitz und Hedwig Schröder. (Stand: Mai 2018) 
 
 # Über den Ort 
 
