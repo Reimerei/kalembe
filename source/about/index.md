@@ -12,9 +12,6 @@ In Kalembe, einem kleinen Dorf in der Demokratischen Republik Kongo in Afrika, i
 
 Dieser Erfolg ist der [Katholischen Kirchengemeinde in Wettringen St. Petronilla](http://www.st-petronilla-wettringen.de), der Kolpingsfamilie Wettringen und unzähligen Spenderinnen und Spendern zu verdanken. Die gesamte finanzielle Unterstützung der Mädchenschule kommt aus dem Hiärtken, in dem der kongolesische Pfarrer Dr. theol. Désiré seit fünf Jahren immer wieder zu Gast ist. 
 
-![Bild](/images/Desire_Schülerinnen.png)
-*Pfarrer Desiré mit Schülerinnen*
-
 Im Kongo gehen viele Mädchen nicht zur Schule und bekommen in sehr jungem Alter selbst Kinder. Der Zugang zu Bildung hat deshalb eine lebensverändernde Bedeutung. Diese Zukunftsperspektive für die Mädchen von Kalembe so greifbar wie möglich zu machen, ist das Ziel des Wettringer Fördervereins _Mädchenschule St. Petronilla in Kalembe_.
 
 ![Bild](/images/P1010626.JPG)
