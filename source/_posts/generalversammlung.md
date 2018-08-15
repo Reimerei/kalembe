@@ -24,7 +24,7 @@ Satzungsgemäß waren Wahlen zum Vorstand durchzuführen, und zwar ging es um di
 Die finanziellen Mittel des Fördervereins ergeben sich aus den Jahresbeiträgen der Mitglieder, deren Zahl sich momentan auf 129 beläuft. Der Jahresbeitrag beträgt 24 Euro. Zusätzlich gehen Spenden ein, teilweise in beachtlicher Höhe, auch von auswärtigen Spendern. Verschiedene Aktionen im abzuschließenden Geschäftsjahr erbrachten  Erlöse. 
 
 ![Bild](/images/DSC00151.JPG)
-*Die Biomolkerei Söbbeke hat im letzten Jahr [über 16.000 Euro an die Schule gespendet.] (https://kalembe.de/2018/01/25/soebbeke2018/). 
+Die Biomolkerei Söbbeke hat im letzten Jahr [über 16.000 Euro an die Schule gespendet.] (https://kalembe.de/2018/01/25/soebbeke2018/). 
 
 # Tätigkeitsbericht der Vorsitzenden
 
