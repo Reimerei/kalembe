@@ -40,4 +40,4 @@ Maria Göcke (1. Vorsitzende): maria.goecke@gmx.net, 02557/1263
 
 Ingrid Hermes (Stellvertretende Vorsitzende und Vorsitzende der Kolpingfamilie Wettringen): karlheinz.hermes@web.de
 
-Matthias Flothmann (Schriftführer): susanne.flothmann@gmx.de
+Matthias Flothmann (Schriftführer): Maedchenschule-Kalembe@gmx.de
