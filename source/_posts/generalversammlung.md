@@ -42,7 +42,7 @@ Dringend notwendig sei die Versorgung der Schülerinnen mit trinkbarem Wasser. D
 
 Der Erfolg hinsichtlich der Bildung der Schüler sei sehr erfreulich Alle hätten in diesem Jahr den Abschluss erreicht. Deswegen habe es eine schöne Abschlussfeier gegeben. Die Eltern hätten für ein gemeinsames Essen die Materialen mitgebracht. Er und Pierre hätten für Fanta gesorgt. 
 
-![Bild](/images/kalembe2018 (37).jpg)
+![Bild](/images/fanta.jpg)
 *Einmal im Jahr Fanta: Riesenfreude bei den Schülerinnen.*
 
 In einer anschließenden Diskussionsrunde gab Désiré Antworten auf viele Fragen. Bezüglich der Frage, wie es mit der Wartung der Pumpe aussehe, erwiderte er, das sei geregelt.
