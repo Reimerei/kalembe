@@ -25,12 +25,12 @@ Momentan bauen die Einheimischen noch an der Fertigstellung des Gebäudes für d
 
 Wer eine Spende geben möchte, kann sie auf das Konto  des Fördervereins bei der Kreissparkasse Steinfurt. Kontonummer: DE06 4035 1060 0073 7365 30 
 
-
-![Bild](/images/wasser_gruppe.jpg)
-
 ![Bild](/images/wasser.jpg)
+*Sauberes, laufendes Trinkwasser: ein Grundrecht.*
 
 ![Bild](/images/wassertank.jpg)
+*Der 5 000 Liter fassende Wasserturm.*
 
 ![Bild](/images/solar.jpg)
+*Fertigstellung der Solaranlage zur Energiegewinnung auf dem Dach eines Schulgebäudes. Sie soll noch vergrößert werden für den Betrieb der Küche.*
 
