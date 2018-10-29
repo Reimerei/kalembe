@@ -16,7 +16,7 @@ before_install:
 - chmod 600 /tmp/deploy_key
 - ssh-add /tmp/deploy_key
 
-eploy:
+deploy:
   provider: script
   skip_cleanup: true
   script: rsync -r --delete-after $TRAVIS_BUILD_DIR/public/ deploy_kalembe@beech.bjrm.de:/opt/web_static/kalembe.de/
