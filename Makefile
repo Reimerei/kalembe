@@ -1,14 +1,13 @@
-image=hexo-build-image
+image=node
 hexo_bin=/source/node_modules/hexo/bin/hexo
-docker_run=docker run -it --rm --volume $(PWD):/source
+docker_run=docker run -it --rm --volume $(PWD):/source -w /source
 
 setup:
 	docker pull node
-	docker build -t hexo-build-image .
 	$(docker_run) $(image) npm install
 
-pull:
-	git pull
+update:
+	$(docker_run) $(image) npm update
 
 console:
 	$(docker_run) $(image) /bin/bash
@@ -21,6 +20,3 @@ watch:
 
 server:
 	$(hexo_bin) server -l
-
-deploy: pull generate
-	$(docker_run) -v $(SSH_AUTH_SOCK):/ssh-agent -e SSH_AUTH_SOCK=/ssh-agent $(image) $(hexo_bin) deploy

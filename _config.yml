@@ -77,12 +77,12 @@ theme: beautiful-hexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: rsync
-  host: acorn.x-hain.de
-  user: reimerei
-  root: /home/reimerei/kalembe_webroot
-  port: [port]
-  delete: true
-  verbose: true
-  ignore_errors: false
+# deploy:
+#   type: rsync
+#   host: acorn.x-hain.de
+#   user: reimerei
+#   root: /home/reimerei/kalembe_webroot
+#   port: [port]
+#   delete: true
+#   verbose: true
+#   ignore_errors: false
