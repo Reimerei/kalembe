@@ -8,7 +8,7 @@ Sternstunden für die Mädchenschule St. Petronilla in Kalembe!
 
 | ![Bild](/images/sterne2018.JPG) | 
 |:--:| 
-| *Im Heimathaus: Hedwig Schröder (links) hilft Hildegard Abbing (rechts) beim Verkauf.* |
+| *Im Heimathaus: Hedwig Schröder (links) hilft Hildegard Abbing (rechts) beim Verkauf.* |  
 
 <!-- more -->
 
