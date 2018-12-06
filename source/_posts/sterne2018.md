@@ -12,7 +12,7 @@ Gleichzeitig wurden noch von den Schülerinnen der Schule hergestellte Stoff-Ein
 
 | ![Bild](/images/sterne2018.JPG) | 
 |:--:| 
-| *Hedwig Schröder (links) hilft Hildegard Abbing (rechts) im Heimathaus Wettringen beim Verkauf ihrer Sterne* |
+| *Im Heimathaus: Hedwig Schröder (links) hilft Hildegard Abbing (rechts) beim Verkauf.* |
 
-Ein herzliches Dankeschön des Fördervereins an Hildegard Abbing und allen, die die Aktion mit dem Kauf eines Sterns oder einer Tasche unterstützt haben! 
+Der Fördervereins bedankt sich bei allen, die die Aktion mit dem Kauf eines Sterns oder einer Tasche unterstützt haben! 
 
