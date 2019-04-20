@@ -1,6 +1,6 @@
 sudo: required
 addons:
-  ssh_known_hosts: beech.bjrm.de:222
+  ssh_known_hosts: beech.bjrm.de
 services:
 - docker
 script:
@@ -14,6 +14,6 @@ before_install:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after -e "ssh -p 222" $TRAVIS_BUILD_DIR/public/ deploy_kalembe@beech.bjrm.de:/opt/web_static/kalembe.de/
+  script: rsync -r --delete-after $TRAVIS_BUILD_DIR/public/ deploy_kalembe@beech.bjrm.de:/opt/web_static/kalembe.de/
   on:
     branch: master
