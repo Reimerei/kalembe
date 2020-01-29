@@ -14,6 +14,6 @@ before_install:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --delete-after $TRAVIS_BUILD_DIR/public/ deploy_kalembe@beech.bjrm.de:/opt/web_static/kalembe.de/
+  script: rsync -r --delete-after $TRAVIS_BUILD_DIR/public/ deploy_kalembe@oak.bjrm.de:/public/
   on:
     branch: master
