@@ -1,6 +1,6 @@
 image=node
 hexo_bin=/source/node_modules/hexo/bin/hexo
-docker_run=docker run -it --rm --volume $(PWD):/source -w /source
+docker_run=docker run --rm --volume $(PWD):/source -w /source
 
 setup:
 	docker pull node
