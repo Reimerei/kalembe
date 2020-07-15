@@ -1,7 +1,6 @@
-
 ---
 title: Sterne für Kalembe
-date: 2018-12-06-12:14:00
+date: 2018-12-06 12:14:00
 ---
 
 Sternstunden für die Mädchenschule St. Petronilla in Kalembe!

@@ -1,6 +1,6 @@
 ---
-title: Titel Hier!
-date: 2020-15-07 20:00:00
+title: Erfolgreiches Schuljahr
+date: 2020-07-15 20:00:00
 ---
 
 Erfolgreiches Jahr für die Mädchenschule in Kalembe / Kongo

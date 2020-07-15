@@ -1,9 +1,9 @@
 ---
-title: Titel Hier!
-date: 2018-10-01 22:54:25
+title: Beispiel
+date: 2016-10-01 22:54:25
 ---
 
-![Bild](/images/soebbeke_danke.jpg)
+![Bild](/images/danke.jpg)
 
 Dieser Text ist auf der übersicht sichtbar
 
