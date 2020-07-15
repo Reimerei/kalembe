@@ -7,8 +7,6 @@ name: CI
 on:
   push:
     branches: [ master ]
-  watch:
-    types: [started]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -25,4 +23,14 @@ jobs:
     # Runs a single command using the runners shell
     - name: setup and generate
       run: make setup generate
+
+    - name: rsync deployment
+      uses: burnett01/rsync-deployments@4.1
+      with:
+        switches: -avzr --delete-after
+        path: $GITHUB_WORKSPACE/public/
+        remote_path: /public/
+        remote_host: oak.bjrm.de
+        remote_user: deploy_kalembe
+        remote_key: ${{ secrets.DEPLOY_KEY }}
 
