@@ -3,7 +3,6 @@ title: Gute Fortschritte bei der Mädchenschule in Kalembe / Kongo
 date: 2019.08.2020
 ---
 
-![Bild](/images/Kalembe Speisesaal 20-2 i.jpg)
 
 Am vergangenen Sonntag hat Engelbert Rauen in allen Messen in St. Petronilla und St. Michale über das Projekt der Mädchenschule von Pfarrer Désiré in Kalembe berichtet:
 Désirés Heimat liegt im Süden der Demokratischen Republik Kongo in einem sehr ländlich geprägten Bereich. Die Menschen wohnen in kleinen Dörfern in selbstgebauten Hütten, ohne Strom, ohne fließendes Wasser und in den meisten Fällen ohne geregeltes Einkommen. Sie leben von dem, was sie selbst anbauen oder erjagen können. Es gibt keine Infrastruktur und auch keine Schule. Die Mädchen bekommen oft schon mit 16 Jahren ihr erstes Kind und haben kaum eine Chance aus diesem Kreislauf der Armut auszubrechen.
@@ -19,6 +18,8 @@ Ich danke allen, die dieses Projekt bisher unterstützt haben und dies auch hoff
 Da wir unsere Arbeit im Vorstandehrenamtlich tun, können wir garantieren, dass jede Spende zu 100% den Kindern und jungen Menschen in Kalembe zugute kommt.
 Wer das Projekt unterstützen möchte, kann dies gerne durch eine Spende auf das Konto „Mädchenschule Kalembe“, IBAN  DE06 4035 1060 0073 7365 30 tun. Eine Spendenbescheinigung wird ausgestellt. Weitere Informationen bei Engelbert Rauen, Tel.: 7077 oder per Mail erauen@gmx.de
 
+![Bild](/images/Speisesaal.jpg)
+![Bild](/images/Speisesaalzwei.jpg)
 
 Foto: Das vor zwei Wochen in Kalembe erstellte Foto zeigt den fast fertigen Speiseraum, in dem die Kinder pro Tag eine Mahlzeit erhalten sollen.
 
