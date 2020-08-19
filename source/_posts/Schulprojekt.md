@@ -16,7 +16,7 @@ Bereits 2014 konnte mit dem ersten Schulgebäude begonnen werden, alle im Dorf h
 
 Ohne das Essen müssen wir pro Jahr mindestens 20.000 – 25 000 € an Spenden dorthin überweisen, damit der Schulbetrieb stattfinden kann. Der Staat gibt keinerlei Zuschüsse. Unser Förderverein hat zur Zeit 160 Mitglieder, bei einem Jahresbeitrag von 24 € ergibt das eine Spendensumme von fast 4000 €. Nur durch zahlreiche zusätzliche Spenden ist es möglich, die laufenden Kosten zu decken. Zusätzlich wollen wir in diesem Jahr mit dem Bau der Aula und Bibliothek beginnen, dafür sind nach einer Kostenschätzung ca. 26.000 € erforderlich. Fast alle Eltern können kein Schulgeld bezahlen. Wenn die Spenden aus Wettringen pro Quartal nicht dorthin überwiesen werden, kann die Schule nicht weiter bestehen.
 
-![Bild](/imagesBauarbeiten_Aula.jpg)
+![Bild](/images/Bauarbeiten_Aula.jpg)
 *Bauarbeiten an der Aula*
 
 Die Schule vermittelt auch in Nähkursen den jungen Müttern die Möglichkeit, sich eigene Kleidung anzufertigen und die Grundlagen der Hygiene zu erlernen und anzuwenden. Die Schule ist zum Mittelpunkt der umliegenden Dörfer geworden, sie gibt jungen Menschen die Chance, durch Bildung den Kreislauf der Armut zu durchbrechen, einen Beruf zu erlernen und Geld zu verdienen.
