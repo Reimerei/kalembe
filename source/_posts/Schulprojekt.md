@@ -28,6 +28,7 @@ Ich danke allen, die dieses Projekt bisher unterstützt haben und dies auch hoff
 Da wir unsere Arbeit im Vorstandehrenamtlich tun, können wir garantieren, dass jede Spende zu 100% den Kindern und jungen Menschen in Kalembe zugute kommt.
 Wer das Projekt unterstützen möchte, kann dies gerne durch eine Spende auf das Konto „Mädchenschule Kalembe“, IBAN  DE06 4035 1060 0073 7365 30 tun. Eine Spendenbescheinigung wird ausgestellt. Weitere Informationen bei Engelbert Rauen, Tel.: 7077 oder per Mail erauen@gmx.de
 
+
 ![Bild](/images/Speisesaal.jpg)
 
 
