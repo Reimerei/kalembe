@@ -31,7 +31,6 @@ Wer das Projekt unterstützen möchte, kann dies gerne durch eine Spende auf das
 
 ![Bild](/images/Speisesaal.jpg)
 
-
 Foto: Das vor zwei Wochen in Kalembe erstellte Foto zeigt den fast fertigen Speiseraum, in dem die Kinder pro Tag eine Mahlzeit erhalten sollen.
 
 
