@@ -5,8 +5,11 @@ date: 19.08.2020
 
 
 
-Seit 2014 unterstützen zahlreiche Spender und die kath. Kirchengemeinde St. Pet-ronilla in Wettringen den Bau und den Unterhalt einer Schule im Süden des Kon-gos.
+Seit 2014 unterstützen zahlreiche Spender und die kath. Kirchengemeinde St. Petronilla in Wettringen den Bau und den Unterhalt einer Schule im Süden des Kongos.
 Die Idee enstand durch Pfarrer Desiré, der aus dem Kongo stammt und dort als Priester tätig ist. 2011 und 2011 war er in der kath. Pfarrgemeinde in Wettringen tätig und fand dort Unterstützung für seine Idee, in seinem Heimatdorf eine Schule –  insbesondere für Mädchen - zu bauen.
+
+![Bild](/images/Kalembe.jpg)
+
 Dr. Desiré Lenge Mukwenye, seit  2 Jahren als Generalvikar im Bistum Kilwa-Kassenga / Kongo tätig, war Ende Juni zusammen mit  seinem Schwager Pierre, einem Universitätsprofessor, in Kalembe, um dort die Mädchenschule  zu besuchen. 
 Erstmals konnte Desiré 
 
