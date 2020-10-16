@@ -1,6 +1,6 @@
 ---
 title: Einladung zur Versammlung
-date: 2020-10-17 
+date: 17.10.2020 
 
 ---
 
