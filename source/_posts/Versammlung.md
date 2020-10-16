@@ -4,7 +4,7 @@ date: 17.10.2020
 ---
 
 
-![Bild](/images/Versammlung.jpg)
+![Bild](/images/Einladung.jpg)
 <!-- more -->
 
 
