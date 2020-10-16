@@ -1,6 +1,7 @@
 ---
 title: Einladung zur Versammlung
-date: 2016-10-01 22:54:25
+date: 2020-10-17 
+
 ---
 
 ![Bild](/images/Einladung.jpg)
