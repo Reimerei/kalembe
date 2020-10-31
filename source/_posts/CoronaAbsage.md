@@ -1,6 +1,6 @@
 ---
 title: Absage Mitgliedervesammlung
-date: 2016-10-01 22:54:25
+date: 31.10.2020
 ---
 
 
