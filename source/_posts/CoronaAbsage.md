@@ -1,5 +1,5 @@
 ---
-title: Absage Mitgliedervesammlung / Neuer Termin
+title: Absage Mitgliedervesammlung Neuer Termin
 date: 31.10.2020
 ---
 
