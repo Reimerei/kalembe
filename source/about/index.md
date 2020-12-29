@@ -14,8 +14,9 @@ Dieser Erfolg ist der [Katholischen Kirchengemeinde in Wettringen St. Petronilla
 
 Im Kongo gehen viele Mädchen nicht zur Schule und bekommen in sehr jungem Alter selbst Kinder. Der Zugang zu Bildung hat deshalb eine lebensverändernde Bedeutung. Diese Zukunftsperspektive für die Mädchen von Kalembe so greifbar wie möglich zu machen, ist das Ziel des Wettringer Fördervereins _Mädchenschule St. Petronilla in Kalembe_.
 
-![Bild](/images/P1010626.JPG)
-*Der engagierte Vorstand des Fördervereins besteht aus Matthias Flothmann, Maria Göcke, Bernadette Storm, Ingrid Hermes, Albert Janning, Albrecht Jungnitz und Hedwig Schröder. (Stand: Mai 2018)*
+![Bild](/images/Vorstand2020.JPG)
+*Der engagierte Vorstand des Fördervereins besteht aus (vordere Reihe, von links) Hedwig Schröder, Almuth Bauersachs, Maria Göcke und Ingrid Hermes, 
+(hintere Reihe, von links) Matthias Flothmann, Albert Janning, Albrecht Jungnitz und Engelbert Rauen (Stand: 2020)*
 
 # Über den Ort 
 
