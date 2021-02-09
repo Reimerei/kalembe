@@ -1,6 +1,6 @@
 ---
 title: Aktueller Bericht
-date: 2021-02-09 14:30:25
+date: 2021-02-09 
 ---
 
 Aktueller Bericht über das Schulprojekt
