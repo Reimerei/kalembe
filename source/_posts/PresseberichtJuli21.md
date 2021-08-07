@@ -26,7 +26,7 @@ Mit großer Freude informierte Desirè über den gelungenen Ausbau des Schulgart
 Zwei junge Ingenieure der Agrarwissenschaften, die gerade ihr Studium in Lubumbashi beendet haben, sind für 4 Wochen nach Kalembe gefahren.
 Dort haben sie die Lehrer und Kinder angeleitet, den Schulgarten zu erweitern und  besser zu bewirtschaften.
 
-![Bild](/images/3Schulgarten 2105.jpg)
+![Bild](/images/3Schulgarten2105.jpg)
 
 So konnte in den vergangenen Wochen viel Gemüse dort geerntet und für die Schulspeisung eingesetzt werden. 
 Der Förderverein hatte am Jahresanfang Spendengelder für die Beschaffung von Gartengeräten, Samen und Pflanzen zur Verfügung gestellt. 
