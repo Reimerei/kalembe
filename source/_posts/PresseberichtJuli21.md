@@ -7,7 +7,7 @@ Eine Oase der Hoffnung blüht in Kalembe
 Gute Nachrichten aus dem  Kongo von Pfarrer Desiré
 Im Juni war Pfarrer Desiré für einige Wochen wieder in Kalembe, dem von Wettringen geförderten Schulprojekt, welches vor 6-7 Jahren dort entstanden ist.
 
-![Bild](/11 Desiré mit Lehrern.jpg)
+![Bild](/images/Lehrer.jpg)
 Pfarrer Desiré mit dem Schuldirektor und einigen Lehrerinnen und Lehrern.
 
 <!-- more -->
@@ -15,7 +15,7 @@ Pfarrer Desiré mit dem Schuldirektor und einigen Lehrerinnen und Lehrern.
 In den letzten zwei Jahren konnte die Schule, die inzwischen von 350- 370 Kindern besucht wird, mit Spenden aus Wettringen und Umgebung  weiter ausgebaut werden. 
 Die meisten Kinder kommen morgens nüchtern zur Schule, da die Familien sehr arm sind und nur das zur Verfügung haben, was sie selbst anbauen können.
 
-[Bild](/images/7Klassevorihrem Schulgebäude.jpg)
+![Bild](/images/Schüler.jpg)
 Schulklasse
 
 Der neue Speisesaal wurde Anfang 2020 in Betrieb genommen. Durch die zahlreichen Spenden im Advent 2020 können die teilweise unterernährten Kinder jede Woche an 
@@ -26,7 +26,7 @@ Mit großer Freude informierte Desirè über den gelungenen Ausbau des Schulgart
 Zwei junge Ingenieure der Agrarwissenschaften, die gerade ihr Studium in Lubumbashi beendet haben, sind für 4 Wochen nach Kalembe gefahren.
 Dort haben sie die Lehrer und Kinder angeleitet, den Schulgarten zu erweitern und  besser zu bewirtschaften.
 
-![Bild](/images/3Schulgarten2105.jpg)
+![Bild](/images/3Schulgarten.jpg)
 
 So konnte in den vergangenen Wochen viel Gemüse dort geerntet und für die Schulspeisung eingesetzt werden. 
 Der Förderverein hatte am Jahresanfang Spendengelder für die Beschaffung von Gartengeräten, Samen und Pflanzen zur Verfügung gestellt. 
@@ -53,9 +53,11 @@ Jeweils am Nachmittag kommen sie für 4 Stunden in das Schulgebäude, um im Näh
 Dieser Unterricht findet meistens im Speisesaal statt.
 
 Durch die im Jahre 2020 erbaute Aula sind weitere Möglichkeiten für gemeinsame Veranstaltungen der Schule aber auch für die Dorfgemeinschaft geschaffen worden. 
-![Bild](/images/5Aula.jpg
+
+![Bild](/images/Aula1.jpg)
 Das Gebäude der Aula
-![Bild](/images/4Aula.jpg
+
+![Bild](/images/Aula2.jpg)
 Die Aula wurde 2020 errichtet.
 
 Die Schule hat eine große Akzeptanz bei den Familien. Die Kinder gehen gerne in die Schule, und ein Teil der Eltern hilft mit um die Mittagsspeisung vorzubereiten. 
