@@ -26,7 +26,7 @@ Mit großer Freude informierte Desirè über den gelungenen Ausbau des Schulgart
 Zwei junge Ingenieure der Agrarwissenschaften, die gerade ihr Studium in Lubumbashi beendet haben, sind für 4 Wochen nach Kalembe gefahren.
 Dort haben sie die Lehrer und Kinder angeleitet, den Schulgarten zu erweitern und  besser zu bewirtschaften.
 
-![Bild](/images/3Schulgarten.jpg)
+![Bild](/images/INGSchulgarten.jpg)
 
 So konnte in den vergangenen Wochen viel Gemüse dort geerntet und für die Schulspeisung eingesetzt werden. 
 Der Förderverein hatte am Jahresanfang Spendengelder für die Beschaffung von Gartengeräten, Samen und Pflanzen zur Verfügung gestellt. 
@@ -66,7 +66,7 @@ Das Fundament dafür ist fertig gestellt. Mit vier Bauarbeitern werden nun die A
 ![Bild](/images/6FundamentfürdieKrankenstation.jpg)
 Fundament der Krankenstation.
 
-![Bild](/images/10InHandarbeitfertiggestellteZiegel.jpg)
+![Bild](/images/Ziegel.jpg)
 Ziegelsteine, die in Handarbeit hergestellt und von der Sonne gebrannt wurden.
 
 Für die nächsten Jahre sind noch große Herausforderungen zu bewältigen. Durch Lehrerfortbildung und zusätzliche Lernmittel muss die Qualität des Unterrichtes noch verbessert werden. 
