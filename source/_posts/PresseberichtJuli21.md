@@ -1,6 +1,6 @@
 ---
-title: Beispiel
-date: 2021-08-07 10:00
+title: Eine Oase der Hoffnung blüht in Kalembe
+date: 07.08.2021
 ---
 Eine Oase der Hoffnung blüht in Kalembe
 
