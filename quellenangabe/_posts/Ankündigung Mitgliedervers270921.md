@@ -3,7 +3,6 @@ title: Ankündigung Mitgliederversammlung
 date: 2021-09-14 08:06:25
 ---
 
-![Bild](/images/danke.jpg)
 
 Förderverein Mädchenschule informiert in der Bürgerhalle
 
