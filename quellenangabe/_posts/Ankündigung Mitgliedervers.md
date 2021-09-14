@@ -1,6 +1,6 @@
 ---
-title: Ankündigung Mitgliederversammlung
-date: 2021-09-14 08:06:25
+title: Ankündigung Mitgliederversammlung 27.09.2021
+date: 14.09.2021
 ---
 
 
