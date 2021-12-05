@@ -1,6 +1,6 @@
 ---
 title: Wettringen spendet für eine Schule im Kongo
-date: 19.08.2020
+date: 2021-07-01 05:00:00 -0800
 ---
 
 
