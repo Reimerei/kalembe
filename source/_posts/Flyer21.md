@@ -1,6 +1,6 @@
 ---
 title: Flyer
-date: 2021-12-01 22:54:25
+date: 01.12.2021
 ---
 
 ![Bild](/images/Flyer2021.jpg)
