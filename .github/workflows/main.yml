@@ -30,7 +30,7 @@ jobs:
         switches: -avzr --delete-after
         path: public/
         remote_path: /public/
-        remote_host: maple.bjrm.de
+        remote_host: oak.bjrm.de
         remote_user: deploy_kalembe
         remote_key: ${{ secrets.DEPLOY_KEY }}
 
